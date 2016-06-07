@@ -1,4 +1,5 @@
 #!/bin/bash
+#
 a='av b j j'
 for var in $a
 do
